@@ -5,9 +5,12 @@
 
 ### 👨‍💻 About Me:
 -🎓 Hiện là sinh viên ngành Công nghệ Thông tin
+
 -📍 Đang sống ở vùng giao thoa giữa Bình Chánh và Long An – vẫn tính là người thành phố, nhưng chuẩn style lập trình nửa mùa:
 
+
 Sáng bắt xe lên Sài Gòn học code, chiều về quê ăn cơm mẹ nấu, tối... dọn bug tới sáng 😵‍💫
+
 
 -💡 Chuyên trị backend, thích “đi chơi”,không thích “đi code”
 
