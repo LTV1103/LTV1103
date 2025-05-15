@@ -1,14 +1,13 @@
-<h1 align="center">Hi there, I'm Vỹ 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">🚀 IT Student | Backend Developer ✨</h3>
 
 ---
 
 ### 👨‍💻 About Me:
 - 🎓 I'm currently a student majoring in **Information Technology**
-- 🔭 I’m working on health tracking apps & AI-powered tools (OCR, sign language, chatbot...)
-- 🎯 2025 Goal: Build a sign language recognition system with CNN + deploy it to mobile
-- 💬 Ask me about anything related to Flutter, Spring Boot, MySQL, AI, or... caffeine ☕
-
+- 📍 Tên đầy đủ là **Vỹ**, quê ở vùng giao thoa giữa **Bình Chánh** và **Long An** – sáng lên Sài Gòn học code, chiều về quê... ăn cơm mẹ nấu 🍚
+- 💡 Yêu thích backend
+- ☕ Năng lượng lập trình thường đến từ... **cà phê đá không đường** và **deadline** kề bên
 
 ---
 
@@ -26,6 +25,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
+
+---
 
 ### 📫 Let's Connect:
 <p align="left">
