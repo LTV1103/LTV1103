@@ -4,10 +4,16 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Hiện tại mình là sinh viên ngành **Công nghệ Thông tin**
-- 📍 Tên đầy đủ là **Lương Triều Vỹ**, sống ở vùng giao thoa giữa **Bình Chánh** và **Long An** – sáng lên Sài Gòn học code, chiều về quê... ăn cơm mẹ nấu 🍚
-- 💡 Yêu thích backend
-- ☕ Năng lượng lập trình thường đến từ... **cà phê đá không đường** và **deadline** kề bên
+-🎓 Hiện là sinh viên ngành Công nghệ Thông tin
+-📍 Đang sống ở vùng giao thoa giữa Bình Chánh và Long An – vẫn tính là người thành phố, nhưng chuẩn style lập trình nửa mùa:
+
+Sáng bắt xe lên Sài Gòn học code, chiều về quê ăn cơm mẹ nấu, tối... dọn bug tới sáng 😵‍💫
+
+-💡 Chuyên trị backend, thích “đi chơi”,không thích “đi code”
+
+-☕ Nguồn năng lượng lập trình đến từ: deadline dí, cà phê đá không đường, và Google đầy tab
+
+
 
 ---
 
