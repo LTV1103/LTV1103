@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I'm currently a student majoring in **Information Technology**
-- 📍 Tên đầy đủ là **Vỹ**, quê ở vùng giao thoa giữa **Bình Chánh** và **Long An** – sáng lên Sài Gòn học code, chiều về quê... ăn cơm mẹ nấu 🍚
+- 📍 Tên đầy đủ là **Vỹ**, sống ở vùng giao thoa giữa **Bình Chánh** và **Long An** – sáng lên Sài Gòn học code, chiều về quê... ăn cơm mẹ nấu 🍚
 - 💡 Yêu thích backend
 - ☕ Năng lượng lập trình thường đến từ... **cà phê đá không đường** và **deadline** kề bên
 
@@ -30,10 +30,15 @@
 
 ### 📫 Let's Connect:
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://zalo.me/your-zalo"><img src="https://img.shields.io/badge/Zalo-0182FE?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/LTV1103"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="luongtrieuvy11032003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://zalo.me/0374311503">
+    <img src="https://img.shields.io/badge/Zalo-0182FE?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/LTV1103">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
