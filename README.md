@@ -46,4 +46,4 @@
 
 ---
 
-> 💬 “Đừng chỉ viết code, hãy viết thứ khiến người ta phải wow 😲” – Vỹ, developer lúc thức trắng
+> 💬 “Học kỳ này nháp thui, năm sau làm lại 😲” – Vỹ
