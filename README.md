@@ -30,9 +30,9 @@
 
 ### 📫 Let's Connect:
 <p align="left">
-<a href="mailto:luongtrieuvy11032003@gmail.com">
+<!-- <a href="mailto:luongtrieuvy11032003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://zalo.me/0374311503">
     <img src="https://img.shields.io/badge/Zalo-0182FE?style=flat&logo=telegram&logoColor=white"/>
   </a>
