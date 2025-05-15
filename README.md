@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 Hiện tại mình là sinh viên ngành **Công nghệ Thông tin**
-- 📍 Tên đầy đủ là **Vỹ**, sống ở vùng giao thoa giữa **Bình Chánh** và **Long An** – sáng lên Sài Gòn học code, chiều về quê... ăn cơm mẹ nấu 🍚
+- 📍 Tên đầy đủ là **Lương Triều Vỹ**, sống ở vùng giao thoa giữa **Bình Chánh** và **Long An** – sáng lên Sài Gòn học code, chiều về quê... ăn cơm mẹ nấu 🍚
 - 💡 Yêu thích backend
 - ☕ Năng lượng lập trình thường đến từ... **cà phê đá không đường** và **deadline** kề bên
 
