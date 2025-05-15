@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Vỹ 👋</h1>
-<h3 align="center">🚀 IT Student | Flutter & Backend Developer | AI Enthusiast | Future Tech Magician ✨</h3>
+<h3 align="center">🚀 IT Student | Backend Developer ✨</h3>
 
 ---
 
 ### 👨‍💻 About Me:
 - 🎓 I'm currently a student majoring in **Information Technology**
 - 🔭 I’m working on health tracking apps & AI-powered tools (OCR, sign language, chatbot...)
-- 💡 I love combining **AI + Mobile + Human needs** to create meaningful products
 - 🎯 2025 Goal: Build a sign language recognition system with CNN + deploy it to mobile
 - 💬 Ask me about anything related to Flutter, Spring Boot, MySQL, AI, or... caffeine ☕
 
@@ -27,17 +26,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
-
----
-
-### 🧠 Projects & Experience:
-- 🧬 **AI Projects**: Sign language recognition, OCR for the blind, biological simulations
-- 💊 **Health Tracker App**: Flutter frontend + Node.js backend + MySQL on Railway
-- 🛠️ **Custom APIs**: Built MET-based calorie tracking API with Spring Boot and Node.js
-- 👨‍🏫 **Academic Projects**: Product management app, AI chatbot from SQL data
-- 🚀 Currently learning: Docker, CI/CD, Cloud deployments
-
----
 
 ### 📫 Let's Connect:
 <p align="left">
