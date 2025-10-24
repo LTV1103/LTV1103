@@ -47,19 +47,6 @@ Sáng bắt xe lên Sài Gòn học code, chiều về quê ăn cơm mẹ nấu,
   </a> -->
   <a href="https://zalo.me/0374311503">
     <img src="https://img.shields.io/badge/Zalo-0182FE?style=flat&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/LTV1103">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LTV1103&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTV1103&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
