@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<!-- <h1 align="center">Hi there 👋</h1>
 <h3 align="center">🚀 IT Student | Backend Developer ✨</h3>
 
 ---
@@ -51,4 +51,4 @@ Sáng bắt xe lên Sài Gòn học code, chiều về quê ăn cơm mẹ nấu,
 
 ---
 
-> 💬 “Học kỳ này nháp thui, năm sau làm lại 😲” – Vỹ
+> 💬 “Học kỳ này nháp thui, năm sau làm lại 😲” – Vỹ -->
