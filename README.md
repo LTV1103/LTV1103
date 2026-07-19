@@ -1,9 +1,9 @@
-<!-- <h1 align="center">Hi there 👋</h1>
+<!-- <h1 align="center">Hi there 👋</h1> -->
 <h3 align="center">🚀 IT Student | Backend Developer ✨</h3>
 
 ---
 
-### 👨‍💻 About Me:
+<!-- ### 👨‍💻 About Me:
 -🎓 Hiện là sinh viên ngành Công nghệ Thông tin
 
 -📍 Đang sống ở vùng giao thoa giữa Bình Chánh và Long An – vẫn tính là người thành phố, nhưng chuẩn style lập trình nửa mùa:
@@ -18,7 +18,7 @@ Sáng bắt xe lên Sài Gòn học code, chiều về quê ăn cơm mẹ nấu,
 
 
 
----
+--- -->
 
 ### 🛠️ Languages & Tools:
 
@@ -40,11 +40,11 @@ Sáng bắt xe lên Sài Gòn học code, chiều về quê ăn cơm mẹ nấu,
 
 ---
 
-### 📫 Let's Connect:
+<!-- ### 📫 Let's Connect:
 <p align="left">
 <!-- <a href="mailto:luongtrieuvy11032003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a> -->
+  </a> 
   <a href="https://zalo.me/0374311503">
     <img src="https://img.shields.io/badge/Zalo-0182FE?style=flat&logo=telegram&logoColor=white"/>
 </p>
